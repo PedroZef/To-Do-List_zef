@@ -4,4 +4,4 @@
 
 - O curso pode ser acessado na plataforma da Digital Innovation One - <https://digitalinnovation.one>
 
-- O objetivo do projeto é criar um App de 'To Do List' do zero mostrando o processo de desenvolvimento usando Kotlin e desafiar a evolução do App
+- O objetivo do projeto é criar um projeto do zero mostrando o processo de desenvolvimento usando Kotlin e demostrar a evolução do App "To Do List".
